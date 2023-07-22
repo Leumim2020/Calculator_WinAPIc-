@@ -1,3 +1,3 @@
-# Calculator_UI_Qt
+# Calculator_WinAPI
 
-### Created with QtCreator it has the fours operation basic the Mathematics adition, subtraction, multiplication, and division.
+### Created with WinAPI  it has the fours operation basic the Mathematics adition, subtraction, multiplication, and division.
